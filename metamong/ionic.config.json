@@ -1,0 +1,7 @@
+{
+  "name": "metamong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
